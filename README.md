@@ -154,12 +154,6 @@ pip install ultralytics onnxruntime onnx
 
 ---
 
-## 📄 License
-
-MIT License
-
----
-
 ## 👤 作者
 
 Lililyli
